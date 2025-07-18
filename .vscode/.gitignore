@@ -1,0 +1,33 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Env variables
+.env
+.env.*.local
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite/
+.cache/
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output from testing
+coverage/
